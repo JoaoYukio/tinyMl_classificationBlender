@@ -92,7 +92,7 @@ Com isso foram feitos os testes com o modelo embarcado na placa:
   
   ![image](https://user-images.githubusercontent.com/74123993/126324069-7b09c957-ce2f-4fbb-b4dd-6c9d2b3ebc96.png)
   
-  Uploading low_fast.mp4…
+  https://user-images.githubusercontent.com/74123993/126325634-85bc09b6-10dd-401d-869f-8596a22b3b18.mp4
 
   * full_slow:
   
@@ -104,7 +104,9 @@ Com isso foram feitos os testes com o modelo embarcado na placa:
    
   ![image](https://user-images.githubusercontent.com/74123993/126324339-bc13dc79-b434-4218-afad-02cd50044033.png)
 
-  Uploading full_fast.mp4…
+  
+  https://user-images.githubusercontent.com/74123993/126325581-876a7c22-8b64-482d-a8cc-185db4f9a2f9.mp4
+
 
   * idle e annomaly:
   
